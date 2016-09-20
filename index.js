@@ -88,7 +88,7 @@ module.exports = {
         tabWidth: 2
       }
     ],
-    'max-lines': 'error',
+    'max-lines': 'off',
     'max-nested-callbacks': 'error',
     'max-params': 'off',
     'max-statements': 'error',
@@ -96,7 +96,7 @@ module.exports = {
     'new-cap': 'error',
     'new-parens': 'error',
     'newline-after-var': 'off',
-    'newline-before-return': 'error',
+    'newline-before-return': 'off',
     'newline-per-chained-call': 'error',
     'no-alert': 'error',
     'no-array-constructor': 'error',
