@@ -91,7 +91,7 @@ module.exports = {
     'max-lines': 'off',
     'max-nested-callbacks': 'error',
     'max-params': 'off',
-    'max-statements': 'error',
+    'max-statements': 'off',
     'max-statements-per-line': 'error',
     'new-cap': 'error',
     'new-parens': 'error',
