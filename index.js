@@ -93,7 +93,13 @@ module.exports = {
     'max-params': 'off',
     'max-statements': 'off',
     'max-statements-per-line': 'error',
-    'new-cap': 'error',
+    'new-cap': [
+      'error',
+      {
+        'newIsCap': true,
+        'capIsNew': false
+      }
+    ],
     'new-parens': 'error',
     'newline-after-var': 'off',
     'newline-before-return': 'off',
