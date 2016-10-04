@@ -230,7 +230,7 @@ module.exports = {
       'error',
       'never'
     ],
-    'semi': 'error',
+    'semi': ['error', 'never'],
     'semi-spacing': 'error',
     'sort-imports': 'error',
     'sort-vars': 'error',
