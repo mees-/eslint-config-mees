@@ -191,7 +191,7 @@ module.exports = {
     'no-useless-escape': 'error',
     'no-useless-rename': 'error',
     'no-var': 'error',
-    'no-void': 'error',
+    'no-void': 'off',
     'no-warning-comments': 'off',
     'no-whitespace-before-property': 'error',
     'no-with': 'error',
@@ -261,4 +261,4 @@ module.exports = {
     'yield-star-spacing': 'error',
     'yoda': 'error'
   }
-};
+}
