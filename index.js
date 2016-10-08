@@ -40,7 +40,7 @@ module.exports = {
     ],
     'consistent-return': 'off',
     'consistent-this': 'error',
-    'curly': 'error',
+    'curly': ['error', 'multi-line'],
     'default-case': 'off',
     'dot-location': [
       'error',
