@@ -5,7 +5,7 @@ module.exports = {
     'array-bracket-spacing': 'error',
     'array-callback-return': 'error',
     'arrow-body-style': 'error',
-    'arrow-parens': 'error',
+    'arrow-parens': ['error', 'as-needed'],
     'arrow-spacing': [
       'error',
       {
