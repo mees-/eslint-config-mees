@@ -170,7 +170,7 @@ module.exports = {
     'no-shadow-restricted-names': 'error',
     'no-spaced-func': 'error',
     'no-sync': 'off',
-    'no-ternary': 'error',
+    'no-ternary': 'off',
     'no-throw-literal': 'error',
     'no-trailing-spaces': 'error',
     'no-undef': 'error',
