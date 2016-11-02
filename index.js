@@ -239,10 +239,7 @@ module.exports = {
     ],
     'semi': ['error', 'never'],
     'semi-spacing': 'error',
-    'sort-imports': [
-      'error',
-      { ignoreCase: true }
-    ],
+    'sort-imports': 'off',
     'sort-vars': 'error',
     'space-before-blocks': 'error',
     'space-before-function-paren': [
