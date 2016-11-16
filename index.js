@@ -263,7 +263,7 @@ module.exports = {
     ],
     'valid-jsdoc': 'error',
     'vars-on-top': 'error',
-    'wrap-iife': 'error',
+    'wrap-iife': 'off',
     'wrap-regex': 'error',
     'yield-star-spacing': 'error',
     'yoda': 'error'
