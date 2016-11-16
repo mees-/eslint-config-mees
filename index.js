@@ -213,7 +213,6 @@ module.exports = {
     'padded-blocks': 'off',
     'prefer-arrow-callback': 'error',
     'prefer-const': 'warn',
-    'prefer-reflect': 'error',
     'prefer-rest-params': 'off',
     'prefer-spread': 'error',
     'prefer-template': 'error',
