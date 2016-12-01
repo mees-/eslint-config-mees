@@ -199,7 +199,7 @@ module.exports = {
     'no-warning-comments': 'off',
     'no-whitespace-before-property': 'error',
     'no-with': 'error',
-    'object-curly-newline': 'error',
+    'object-curly-newline': 'off',
     'object-curly-spacing': ['error', 'always'],
     'object-property-newline': [
       'error',
