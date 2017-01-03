@@ -75,7 +75,7 @@ module.exports = {
       { SwitchCase: 1 }
     ],
     'init-declarations': 'off',
-    'jsx-quotes': 'error',
+    'jsx-quotes': ['error', 'prefer-single'],
     'key-spacing': 'error',
     'keyword-spacing': 'error',
     'linebreak-style': [
