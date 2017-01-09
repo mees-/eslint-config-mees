@@ -15,6 +15,7 @@ module.exports = {
     'import'
   ],
   rules: {
+    'dot-location': ['error', 'property'],
     indent: ['error', 2],
     'no-magic-numbers': 'off',
     'quote-props': ['error', 'as-needed'],
