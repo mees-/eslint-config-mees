@@ -1,9 +1,4 @@
 module.exports = {
-  env: {
-    browser: true,
-    node: true,
-    es6: true
-  },
   extends: [
     'eslint:all',
     'plugin:react/all',
@@ -15,9 +10,12 @@ module.exports = {
     'import'
   ],
   rules: {
+    'capitalized-comments': 'off',
     'dot-location': ['error', 'property'],
     indent: ['error', 2],
+    'newline-after-var': 'off',
     'no-magic-numbers': 'off',
+    'one-var': ['error', 'never'],
     'quote-props': ['error', 'as-needed'],
     quotes: ['error', 'single'],
     semi: ['error', 'never'],
