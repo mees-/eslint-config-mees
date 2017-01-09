@@ -21,6 +21,7 @@ module.exports = {
     'quote-props': ['error', 'as-needed'],
     quotes: ['error', 'single'],
     semi: ['error', 'never'],
+    'sort-imports': 'off',
     'sort-keys': 'off',
     strict: 'off'
   }
