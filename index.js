@@ -15,6 +15,7 @@ module.exports = {
     indent: ['error', 2],
     'newline-after-var': 'off',
     'no-magic-numbers': 'off',
+    'no-unused-vars': 'warn',
     'one-var': ['error', 'never'],
     'quote-props': ['error', 'as-needed'],
     quotes: ['error', 'single'],
