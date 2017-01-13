@@ -17,6 +17,7 @@ module.exports = {
     'no-magic-numbers': 'off',
     'no-unused-vars': 'warn',
     'one-var': ['error', 'never'],
+    'padded-blocks': ['error', 'never'],
     'quote-props': ['error', 'as-needed'],
     quotes: ['error', 'single'],
     semi: ['error', 'never'],
