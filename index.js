@@ -16,6 +16,7 @@ module.exports = {
     'newline-after-var': 'off',
     'no-magic-numbers': 'off',
     'no-unused-vars': 'warn',
+    'object-curly-spacing': ['error', 'always'],
     'one-var': ['error', 'never'],
     'padded-blocks': ['error', 'never'],
     'quote-props': ['error', 'as-needed'],
