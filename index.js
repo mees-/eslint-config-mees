@@ -23,6 +23,7 @@ module.exports = {
     semi: ['error', 'never'],
     'sort-imports': 'off',
     'sort-keys': 'off',
-    strict: 'off'
+    strict: 'off',
+    'template-curly-spacing': ['error', 'always']
   }
 }
