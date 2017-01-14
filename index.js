@@ -15,6 +15,7 @@ module.exports = {
     indent: ['error', 2],
     'newline-after-var': 'off',
     'no-magic-numbers': 'off',
+    'no-process-env': 'off',
     'no-unused-vars': 'warn',
     'object-curly-spacing': ['error', 'always'],
     'one-var': ['error', 'never'],
