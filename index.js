@@ -21,6 +21,7 @@ module.exports = {
     'padded-blocks': ['error', 'never'],
     'quote-props': ['error', 'as-needed'],
     quotes: ['error', 'single'],
+    radix: ['warn', 'as-needed'],
     semi: ['error', 'never'],
     'sort-imports': 'off',
     'sort-keys': 'off',
