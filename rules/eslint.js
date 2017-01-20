@@ -9,10 +9,7 @@ module.exports = {
   'no-negated-condition': 'off',
   'no-process-env': 'off',
   'no-unused-vars': 'warn',
-  'object-curly-newline': ['error', {
-    minProperties: 1,
-    multiline: true
-  }],
+  'object-curly-newline': 'off',
   'object-curly-spacing': ['error', 'always'],
   'one-var': ['error', 'never'],
   'padded-blocks': ['error', 'never'],
