@@ -21,6 +21,7 @@ module.exports = {
   'quote-props': ['error', 'as-needed'],
   quotes: ['error', 'single'],
   radix: ['warn', 'as-needed'],
+  'require-jsdoc': 'off',
   semi: ['error', 'never'],
   'sort-imports': 'off',
   'sort-keys': 'off',
