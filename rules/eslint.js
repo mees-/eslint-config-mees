@@ -7,6 +7,7 @@ module.exports = {
   'line-comment-position': 'off',
   'newline-after-var': 'off',
   'no-console': 'off',
+  'no-inline-comments': 'off',
   'no-magic-numbers': 'off',
   'no-negated-condition': 'off',
   'no-process-env': 'off',
