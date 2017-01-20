@@ -4,6 +4,7 @@ module.exports = {
   'dot-location': ['error', 'property'],
   indent: ['error', 2],
   'init-declarations': 'off',
+  'jsx-quotes': ['error', 'prefer-single'],
   'line-comment-position': 'off',
   'newline-after-var': 'off',
   'no-console': 'off',
