@@ -1,5 +1,6 @@
 module.exports = {
   'capitalized-comments': 'off',
+  'class-methods-use-this': 'off',
   'dot-location': ['error', 'property'],
   indent: ['error', 2],
   'init-declarations': 'off',
