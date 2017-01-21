@@ -3,6 +3,6 @@ module.exports = {
   'react/jsx-filename-extension': ['warn', { extensions: ['js'] }],
   'react/jsx-indent': ['error', 2],
   'react/jsx-no-literals': 'off',
-  'prop-types': 'off',
+  'react/prop-types': 'off',
   'react/require-optimization': 'off'
 }
