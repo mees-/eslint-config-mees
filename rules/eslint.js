@@ -10,6 +10,7 @@ module.exports = {
   'no-console': 'off',
   'no-extra-parens': 'off',
   'no-inline-comments': 'off',
+  'no-invalid-this': 'off',
   'no-magic-numbers': 'off',
   'no-negated-condition': 'off',
   'no-process-env': 'off',
