@@ -4,13 +4,10 @@ const react = require('./rules/react')
 module.exports = {
   extends: [
     'eslint:all',
-    'plugin:react/all',
-    'plugin:import/errors',
-    'plugin:import/warnings'
+    'plugin:react/all'
   ],
   plugins: [
-    'react',
-    'import'
+    'react'
   ],
   rules: Object.assign(Object.create(null),
     eslint,
