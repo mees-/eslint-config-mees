@@ -13,7 +13,9 @@ module.exports = {
   'no-magic-numbers': 'off',
   'no-negated-condition': 'off',
   'no-process-env': 'off',
-  'no-unused-vars': 'warn',
+  'no-unused-vars': ['warn', {
+    varsIgnorePattern: 'React'
+  }],
   'object-curly-newline': 'off',
   'object-curly-spacing': ['error', 'always'],
   'one-var': ['error', 'never'],
