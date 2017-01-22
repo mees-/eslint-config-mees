@@ -7,6 +7,7 @@ module.exports = {
   'jsx-quotes': ['error', 'prefer-single'],
   'line-comment-position': 'off',
   'newline-after-var': 'off',
+  'new-cap': 'off',
   'no-console': 'off',
   'no-extra-parens': 'off',
   'no-inline-comments': 'off',
