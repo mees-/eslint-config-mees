@@ -12,6 +12,7 @@ module.exports = {
   'no-inline-comments': 'off',
   'no-invalid-this': 'off',
   'no-magic-numbers': 'off',
+  'no-multi-assign': 'off',
   'no-negated-condition': 'off',
   'no-process-env': 'off',
   'no-unused-vars': ['warn', {
