@@ -2,7 +2,9 @@ module.exports = {
   'capitalized-comments': 'off',
   'class-methods-use-this': 'off',
   'dot-location': ['error', 'property'],
-  indent: ['error', 2],
+  indent: ['error', 2, {
+    SwitchCase: 1
+  }],
   'init-declarations': 'off',
   'jsx-quotes': ['error', 'prefer-single'],
   'line-comment-position': 'off',
