@@ -1,4 +1,7 @@
 module.exports = {
+  'arrow-parens': ['error', 'as-needed', {
+    requireForBlockBody: true
+  }],
   'capitalized-comments': 'off',
   'class-methods-use-this': 'off',
   'dot-location': ['error', 'property'],
