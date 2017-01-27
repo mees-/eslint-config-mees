@@ -1,6 +1,8 @@
 module.exports = {
   'react/display-name': 'warn',
-  'react/jsx-curly-spacing': ['error', 'always'],
+  'react/jsx-curly-spacing': ['error', 'always', {
+    objectLiterals: 'never'
+  }],
   'react/jsx-filename-extension': ['warn', { extensions: ['js'] }],
   'react/jsx-handler-names': 'off',
   'react/jsx-indent': ['error', 2],
