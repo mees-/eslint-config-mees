@@ -18,6 +18,7 @@ module.exports = {
   'no-multi-assign': 'off',
   'no-negated-condition': 'off',
   'no-process-env': 'off',
+  'no-sync': 'off',
   'no-unused-vars': ['warn', {
     varsIgnorePattern: 'React'
   }],
