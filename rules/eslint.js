@@ -23,6 +23,7 @@ module.exports = {
   'no-negated-condition': 'off',
   'no-process-env': 'off',
   'no-sync': 'off',
+  'no-underscore-dangle': 'off',
   'no-unused-vars': ['warn', {
     varsIgnorePattern: 'React'
   }],
