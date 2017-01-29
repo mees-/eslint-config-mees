@@ -11,6 +11,7 @@ module.exports = {
   'init-declarations': 'off',
   'jsx-quotes': ['error', 'prefer-single'],
   'line-comment-position': 'off',
+  'max-params': 'off',
   'max-statements': 'off',
   'newline-after-var': 'off',
   'new-cap': 'off',
