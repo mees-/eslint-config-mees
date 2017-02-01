@@ -33,7 +33,7 @@ module.exports = {
   'one-var': ['error', 'never'],
   'padded-blocks': ['error', 'never'],
   'quote-props': ['error', 'as-needed'],
-  quotes: ['error', 'backtick', {
+  quotes: ['error', 'single', {
     avoidEscape: false,
     allowTemplateLiterals: true
   }],
