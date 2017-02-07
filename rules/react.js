@@ -15,5 +15,6 @@ module.exports = {
   }],
   'react/jsx-no-literals': 'off',
   'react/prop-types': 'off',
-  'react/require-optimization': 'off'
+  'react/require-optimization': 'off',
+  'react/sort-props': 'off'
 }
