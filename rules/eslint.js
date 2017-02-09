@@ -16,6 +16,7 @@ module.exports = {
   'newline-after-var': 'off',
   'new-cap': 'off',
   'no-console': 'off',
+  'no-else-return': 'off',
   'no-extra-parens': 'off',
   'no-inline-comments': 'off',
   'no-invalid-this': 'off',
