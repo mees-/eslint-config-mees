@@ -23,6 +23,7 @@ module.exports = {
   'no-magic-numbers': 'off',
   'no-multi-assign': 'off',
   'no-negated-condition': 'off',
+  'no-plusplus': 'off',
   'no-process-env': 'off',
   'no-sync': 'off',
   'no-underscore-dangle': 'off',
