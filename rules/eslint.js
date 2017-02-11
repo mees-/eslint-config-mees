@@ -15,6 +15,7 @@ module.exports = {
   'max-statements': 'off',
   'newline-after-var': 'off',
   'new-cap': 'off',
+  'no-await-in-loop': 'off',
   'no-console': 'off',
   'no-else-return': 'off',
   'no-extra-parens': 'off',
