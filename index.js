@@ -14,6 +14,7 @@ module.exports = {
       'capitalized-comments': 'off',
       'class-methods-use-this': 'off',
       'dot-location': ['error', 'property'],
+      'id-length': 'off',
       indent: ['error', 2, {
         SwitchCase: 1
       }],
