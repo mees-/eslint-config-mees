@@ -9,7 +9,7 @@ module.exports = {
   rules: Object.assign(Object.create(null),
     {
       'arrow-parens': ['error', 'as-needed', {
-        requireForBlockBody: true
+        requireForBlockBody: false
       }],
       'capitalized-comments': 'off',
       'class-methods-use-this': 'off',
