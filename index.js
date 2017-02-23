@@ -1,12 +1,19 @@
 module.exports = {
   extends: [
     'eslint:all',
-    'plugin:react/all'
+    'plugin:react/all',
+    'plugin:flowtype/recommended'
   ],
   plugins: [
-    'react'
+    'react',
+    'flowtype'
   ],
-  rules: Object.assign(Object.create(null),
+  settings: {
+    flowtype: {
+      onlyFilesWithFlowAnnotation: true
+    }
+  },
+  rules: Object.assign({},
     {
       'arrow-parens': ['error', 'as-needed', {
         requireForBlockBody: false
