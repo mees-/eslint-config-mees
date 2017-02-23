@@ -45,6 +45,7 @@ module.exports = {
       'no-process-env': 'off',
       'no-sync': 'off',
       'no-underscore-dangle': 'off',
+      'no-unused-expressions': 'off',
       'no-unused-vars': ['warn', {
         varsIgnorePattern: 'React'
       }],
