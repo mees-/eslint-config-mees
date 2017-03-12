@@ -60,6 +60,7 @@ module.exports = {
         avoidEscape: false
       }],
       radix: ['warn', 'as-needed'],
+      'require-await': 'off',
       'require-jsdoc': 'off',
       semi: ['error', 'never'],
       'sort-imports': 'off',
