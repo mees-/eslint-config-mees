@@ -21,6 +21,7 @@ module.exports = {
       'callback-return': 'off',
       'capitalized-comments': 'off',
       'class-methods-use-this': 'off',
+      'consistent-return': 'off',
       'dot-location': ['error', 'property'],
       'id-length': 'off',
       indent: ['error', 2, {
