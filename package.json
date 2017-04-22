@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-mees",
-  "version": "3.5.4",
+  "version": "3.5.5",
   "description": "My personal eslint config",
   "main": "index.js",
   "keywords": [

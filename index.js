@@ -15,6 +15,7 @@ module.exports = {
   },
   rules: Object.assign({},
     {
+      'array-callback-return': 'off',
       'arrow-parens': ['error', 'as-needed', {
         requireForBlockBody: false
       }],
