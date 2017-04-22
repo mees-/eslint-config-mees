@@ -54,6 +54,9 @@ module.exports = {
       }],
       'object-curly-newline': 'off',
       'object-curly-spacing': ['error', 'always'],
+      'object-property-newline': ['warn', {
+        allowMultiplePropertiesPerLine: true
+      }],
       'one-var': ['error', 'never'],
       'padded-blocks': ['error', 'never'],
       'quote-props': ['error', 'as-needed'],
