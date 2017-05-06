@@ -24,6 +24,9 @@ module.exports = {
       'class-methods-use-this': 'off',
       'consistent-return': 'off',
       'dot-location': ['error', 'property'],
+      'func-style': ['error', 'declaration', {
+        allowArrowFunctions: true
+      }],
       'id-length': 'off',
       indent: ['error', 2, {
         SwitchCase: 1
