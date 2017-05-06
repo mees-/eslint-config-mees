@@ -94,6 +94,7 @@ module.exports = {
       }],
       'react/jsx-no-literals': 'off',
       'react/jsx-sort-props': 'off',
+      'react/no-set-state': 'off',
       'react/prop-types': 'off',
       'react/require-optimization': 'off'
     }
