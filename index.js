@@ -82,6 +82,7 @@ module.exports = {
     },
     {
       'react/display-name': 'warn',
+      'react/forbid-component-props': 'off',
       'react/jsx-curly-spacing': ['error', 'always', {
         spacing: {
           objectLiterals: 'never'
