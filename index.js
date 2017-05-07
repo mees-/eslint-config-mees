@@ -41,6 +41,9 @@ module.exports = {
       'no-await-in-loop': 'off',
       'no-console': 'off',
       'no-else-return': 'off',
+      'no-empty': ['error', {
+        allowEmptyCatch: true
+      }],
       'no-extra-parens': 'off',
       'no-inline-comments': 'off',
       'no-invalid-this': 'off',
