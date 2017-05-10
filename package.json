@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-mees",
-  "version": "3.5.10",
+  "version": "3.5.11",
   "description": "My personal eslint config",
   "main": "index.js",
   "keywords": [
@@ -22,7 +22,7 @@
     "eslint": "^3.7.1"
   },
   "dependencies": {
-    "eslint-plugin-flowtype": "^2.30.0",
-    "eslint-plugin-react": "^6.8.0"
+    "eslint-plugin-flowtype": "^2.30.1",
+    "eslint-plugin-react": "^7.0.0"
   }
 }
