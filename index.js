@@ -46,6 +46,7 @@ module.exports = {
       'no-plusplus': 'off',
       'no-process-env': 'off',
       'no-sync': 'off',
+      'no-undefined': 'off',
       'no-underscore-dangle': 'off',
       'no-unused-expressions': 'off',
       'no-unused-vars': ['warn', {
