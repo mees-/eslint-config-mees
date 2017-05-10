@@ -1,18 +1,11 @@
 module.exports = {
   extends: [
     'eslint:all',
-    'plugin:react/all',
-    'plugin:flowtype/recommended'
+    'plugin:react/all'
   ],
   plugins: [
-    'react',
-    'flowtype'
+    'react'
   ],
-  settings: {
-    flowtype: {
-      onlyFilesWithFlowAnnotation: true
-    }
-  },
   rules: Object.assign({},
     {
       'array-callback-return': 'off',
