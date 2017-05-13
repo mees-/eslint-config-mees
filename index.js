@@ -34,6 +34,7 @@ module.exports = {
       'newline-before-return': 'off',
       'no-await-in-loop': 'off',
       'no-console': 'off',
+      'no-duplicate-imports': 'off',
       'no-else-return': 'off',
       'no-empty': ['error', {
         allowEmptyCatch: true
