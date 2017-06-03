@@ -54,6 +54,7 @@ module.exports = {
       'no-unused-vars': ['warn', {
         varsIgnorePattern: 'React'
       }],
+      'no-warning-comments': 'off',
       'object-curly-newline': 'off',
       'object-curly-spacing': ['error', 'always'],
       'object-property-newline': ['warn', {
